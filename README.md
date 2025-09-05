@@ -59,8 +59,6 @@ This project uses **cloud-based tools** to preprocess, query, and visualize Uber
 ---
 
 ## 📎 References
-- Google Cloud BigQuery: [Docs](https://cloud.google.com/bigquery)
-- Looker Studio: [Docs](https://lookerstudio.google.com)
 - Uber Engineering Blog: [eng.uber.com](https://eng.uber.com)
 - Dataset Source: [NYC Open Data](https://www.nyc.gov)
 
